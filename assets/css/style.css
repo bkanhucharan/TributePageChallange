@@ -1,0 +1,53 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: #33333324;
+    font-family: 'Raleway', sans-serif;
+}
+
+#title {
+
+    height: 130px;
+    width: 100%;
+    text-align: center;
+    padding-top: 30px;
+}
+h2{
+    font-family: 'Black Han Sans', sans-serif;
+}
+img{
+  max-width: 100%; 
+  display: block; 
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  margin:-5px;
+  margin-top:20px;
+  width:100%;
+  border:5px solid white;
+  background:white;
+}
+#img-caption{
+    text-align: center;
+}
+
+#tribute-info {
+    /*    text-align: center;*/
+    /*    width: 500px;*/
+    /*    white-space: pre-wrap;*/
+
+}
+
+ul {
+    max-width: 550px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+li {
+    margin: 10px;
+}
+blockquote, h3{
+    text-align: center;
+}
